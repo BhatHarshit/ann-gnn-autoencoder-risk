@@ -1,0 +1,7 @@
+Metric,Base paper (2023),Your implementation (current)
+Mean_recon_err,0.077,1.675087
+Std_recon_err,0.045,4.653563
+ROC_AUC,0.91,0.354082
+Precision,0.8,0.0
+Recall,0.75,0.0
+F1,0.77,0.0

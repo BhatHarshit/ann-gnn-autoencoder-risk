@@ -1,0 +1,13 @@
+{
+    "ROC_AUC": 1.0,
+    "PR_AUC": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "TP": 3,
+    "FP": 0,
+    "FN": 0,
+    "TN": 147,
+    "ReconErrMean": 1.6779533624649048,
+    "Model": "Hybrid_ANN_GNN_AE"
+}

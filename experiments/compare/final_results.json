@@ -1,0 +1,67 @@
+{
+  "ANN": {
+    "ROC_AUC": 1.0,
+    "PR_AUC": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "TP": 3,
+    "FP": 0,
+    "FN": 0,
+    "TN": 147,
+    "ReconErrMean": null,
+    "BestThreshold": 0.599
+  },
+  "AutoEncoder": {
+    "ROC_AUC": 1.0,
+    "PR_AUC": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "TP": 3,
+    "FP": 0,
+    "FN": 0,
+    "TN": 147,
+    "ReconErrMean": 1.6738381385803223,
+    "BestThreshold": 0.108
+  },
+  "GNN": {
+    "ROC_AUC": 0.7165532879818594,
+    "PR_AUC": 0.3643707482993197,
+    "Precision": 0.5,
+    "Recall": 0.3333333333333333,
+    "F1": 0.4,
+    "TP": 1,
+    "FP": 1,
+    "FN": 2,
+    "TN": 146,
+    "ReconErrMean": null,
+    "BestThreshold": 0.525
+  },
+  "GNN-AE": {
+    "ROC_AUC": 1.0,
+    "PR_AUC": 1.0,
+    "Precision": 1.0,
+    "Recall": 1.0,
+    "F1": 1.0,
+    "TP": 3,
+    "FP": 0,
+    "FN": 0,
+    "TN": 147,
+    "ReconErrMean": 1.5451910495758057,
+    "BestThreshold": 0.066
+  },
+  "Hybrid": {
+    "ROC_AUC": 0.3333333333333333,
+    "PR_AUC": 0.17783783783783783,
+    "Precision": 0.5,
+    "Recall": 0.3333333333333333,
+    "F1": 0.4,
+    "TP": 1,
+    "FP": 1,
+    "FN": 2,
+    "TN": 146,
+    "ReconErrMean": 1.5548412799835205,
+    "BestThreshold": 0.496
+  }
+}

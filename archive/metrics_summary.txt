@@ -1,0 +1,7 @@
+Mean_recon_err,1.102323
+ROC_AUC,0.997500
+AP,0.902750
+BestThreshold,0.332434
+Precision,0.500000
+Recall,1.000000
+F1,0.666667
