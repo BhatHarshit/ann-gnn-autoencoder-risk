@@ -1,9 +1,17 @@
 # SystematicRiskAI
 
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-%5E2.2.0-red)
+![NumPy](https://img.shields.io/badge/NumPy-%5E1.27.0-lightgrey)
+![Pandas](https://img.shields.io/badge/Pandas-%5E2.1.0-brightgreen)
+![NetworkX](https://img.shields.io/badge/NetworkX-%5E3.1-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%5E3.8.0-purple)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%5E1.3.0-blueviolet)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 **Hybrid ANN–GNN–Autoencoder Framework for Systemic Risk and Market Anomaly Detection in Financial Networks**
 
 ---
-
 ## Overview
 This repository contains the implementation of a hybrid deep learning framework combining:
 
