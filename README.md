@@ -1,4 +1,4 @@
-# SystematicRiskAI(Under Faculty Reviews currenlty)
+# SystematicRiskAI(Under Faculty Reviews currenlty and considerations)
 
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%5E2.2.0-red)
